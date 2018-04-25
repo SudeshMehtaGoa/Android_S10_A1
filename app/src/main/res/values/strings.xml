@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndS10A1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Text box and button is in fragment</string>
+
+
+</resources>
